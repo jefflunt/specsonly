@@ -1,0 +1,17 @@
+{
+  "release_date": {
+    "value": "2020-09-25",
+    "confidence": "R"
+  },
+  "price_usd": {
+    "value": "649-699",
+    "confidence": "R"
+  },
+  "os": {
+    "value": "Android 11",
+    "confidence": "R"
+  },
+  "_sources": [
+    "https://www.tomsguide.com/news/google-pixel-5-release-date-just-leaked-heres-when-its-coming"
+  ]
+}
