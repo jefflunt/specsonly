@@ -1,9 +1,0 @@
-\\\\\\\\\\-------------=========== specs only ===========-------------//////////
-
-this website is:
-
-- specifications for various things people are interested in
-- JSON, making this developer and data friendly
-- contribution PRs welcome: https://github.com/jefflunt/specsonly
-
-updates are published immediately upon merge to `master` branch
