@@ -1,3 +1,10 @@
+attr                    c spec
+--------------------------------------------------------------------------------
+release date            r 2020-09-25
+price (USD)             r $699
+os                      r Android 11
+
+--------------------------------------------------------------------------------
 how to read this page:
 - attr: the attribute in question
 - c: the confidence level that the spec is correct
@@ -5,9 +12,3 @@ how to read this page:
   - m = multiple sources reporting similar
   - c = officially confirmed
 - spec: the actual specs
-
-attr                    c spec
---------------------------------------------------------------------------------
-release date            r 2020-09-25
-price (USD)             r $699
-os                      r Android 11
