@@ -1,7 +1,10 @@
 {
+  "status": "rumored",
   "release_date": "2020-09-25 (est.)",
-  "price_usd": "649-699 (est.)",
-  "_sources": [
+  "prices": {
+    "usd": "649-699 (est.)"
+  },
+  "news": [
     "https://www.tomsguide.com/news/google-pixel-5-release-date-just-leaked-heres-when-its-coming"
   ]
 }

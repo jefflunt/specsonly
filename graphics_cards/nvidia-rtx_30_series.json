@@ -1,0 +1,12 @@
+{
+  "status": "rumored",
+  "variants": {
+    "nvidia 3090 founders edition": {
+      "release_date": "2020-09-24",
+      "price_usd": "1499"
+    }
+  },
+  "news": [
+    "https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/"
+  ]
+}

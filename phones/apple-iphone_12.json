@@ -1,8 +1,34 @@
-
 {
-  "release_date": "2020-09-15 (est.)",
-  "price_usd": "699 (est.)",
-  "_sources": [
+  "status": "rumored",
+  "variants": {
+    "iphone 12": {
+      "prices": {
+        "usd": "699 (est.)",
+        "gbp": "729 (est.)"
+      }
+    },
+    "iphone 12 max": {
+      "prices": {
+        "usd": "799 (est.)",
+        "gbp": "829 (est.)"
+      }
+    },
+    "iphone 12 pro": {
+      "prices": {
+        "usd": "899 (est.)",
+        "gbp": "929 (est.)"
+      }
+    },
+    "iphone 12 pro max": {
+      "prices": {
+        "usd": "999 (est.)",
+        "gbp": "1029 (est.)"
+      }
+    }
+  },
+  "announce_date": "2020-09-15 (est.)",
+  "release_date": "2020-10-21 (est.)",
+  "news": [
     "https://www.macworld.co.uk/news/iphone/iphone-12-release-date-3778073/"
   ]
 }
