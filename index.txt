@@ -3,8 +3,8 @@
 this website is:
 
 - specifications for various things people are interested in
-- 80-column format
-- scraper-friendly
+- (mostly) 80-column format
+- scraper-friendly, no-markup text
 - contribution PRs welcome: https://github.com/jefflunt/specsonly
 
 updates are published daily
