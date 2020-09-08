@@ -1,0 +1,9 @@
+specsonly.com is an 80-column plaintext website that contains specifications for
+various things people are interesterd in. it started when I wanted to track the
+release date and specs for the Google Pixel 5.
+
+the idea is to have a simple website that only contains the data, but none of
+the commentary, speculation, or long-winded blog posts that keep you from just
+seeing what's up.
+
+contribution PRs welcome: https://github.com/jefflunt/specsonly
