@@ -1,8 +1,10 @@
 \\\\\\\\\\-------------=========== specs only ===========-------------//////////
 
-this is an 80-column plaintext website that contains specifications for various
-things people are interesterd in.
+this website is:
 
-contribution PRs welcome: https://github.com/jefflunt/specsonly
+- specifications for various things people are interested in
+- 80-column format
+- scraper-friendly
+- contribution PRs welcome: https://github.com/jefflunt/specsonly
 
 updates are published daily
