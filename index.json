@@ -1,4 +1,17 @@
 {
+  "contact": "jefflunt@gmail.com",
   "readme": "This website is a public JSON responsitory of specifications for various things people are interested in. Anyone can suggest changes. See the 'contribute' key.",
-  "contribute": "https://github.com/jefflunt/specsonly"
+  "contribute": "https://github.com/jefflunt/specsonly",
+  "categories": {
+    "phones": {
+      "desc": "data on smartphones",
+      "path": "/phones/index.json",
+      "owner": "jefflunt@gmail.com"
+    },
+    "graphics_cards": {
+      "desc": "data on graphics cards",
+      "path": "/graphics_cards/index.json",
+      "owner": "jefflunt@gmail.com"
+    }
+  }
 }
