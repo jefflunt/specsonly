@@ -3,8 +3,7 @@
 this website is:
 
 - specifications for various things people are interested in
-- (mostly) 80-column format
-- scraper-friendly, no-markup text
+- JSON, making this developer and data friendly
 - contribution PRs welcome: https://github.com/jefflunt/specsonly
 
-updates are published daily
+updates are published immediately upon merge to `master` branch
